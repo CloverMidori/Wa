@@ -12,7 +12,8 @@
     <AssemblyName>TJAPlayer3</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <ApplicationIcon>Resources\TJAPlayer3.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>
@@ -274,7 +275,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dtx.ico" />
-    <None Include="Resources\TJAPlayer3.ico" />
+    <Content Include="Resources\TJAPlayer3.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
